@@ -1,0 +1,38 @@
+node_modules
+.DS_Store
+.env
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES ("40in TV", "Electronics", 100.00, 5);
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES ("playstation", "Electronics", 300.00, 10);
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES ("xbox", "Electronics", 50.00, 25);
+
+-- INSERT INTO products(product_name, department_name, price, stock_quantity)
+-- VALUES ("snapper", "Sea food", 10.00, 40);
+
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES ("tuna", "Sea food", 12.00, 22);
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES ("levys", "Mens", 45.00, 20);
+
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES ("leather jacket", "Mens", 2000.00, 5);
+
+-- INSERT INTO products(product_name, department_name, price, stock_quantity)
+-- VALUES ("leather boots","Mens", 3000.00, 4);
+
+
+-- INSERT INTO products (product_name, department_name, price, stock_quantity)
+-- VALUES  ("laptop", "Electronics", 500.00, 5);
+
+-- INSERT INTO products(product_name, department_name, price, stock_quantity)
+-- VALUES ("macbook pro", "Electronics", 60.00, 100);
+
+
